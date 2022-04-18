@@ -1,4 +1,4 @@
-# Python-OOP-Project-4.1
+# Webcam-Photo-Sharer
 
 I created this project while I was studying OOP with "Advanced Python: Python OOP with 10 Real-World Programs" course.
 
